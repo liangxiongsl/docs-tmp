@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "03bbd0184a74f588",
+    "type": "split",
+    "children": [
+      {
+        "id": "34e99d320c160f8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4858cb9d4898f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "地理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b95b4a6b622a9175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "厨艺.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c54234dea41e03b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbfefdb15509f049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "需求调查.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb0f67f218085d6f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "353de1e5b1779f29",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7fe44694b00a69d6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f57f2a373fefac8d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e006615a3ce77c7c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fc0a8a4983e7ca0c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "需求调查.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "bbfefdb15509f049",
+  "lastOpenFiles": [
+    "地理.md",
+    "需求调查.md",
+    "思考.md",
+    "readme.md",
+    "厨艺.md",
+    "未命名",
+    "生物.md"
+  ]
+}
