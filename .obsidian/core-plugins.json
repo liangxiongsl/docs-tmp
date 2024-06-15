@@ -4,11 +4,21 @@
   "switcher",
   "graph",
   "backlink",
+<<<<<<< HEAD
   "page-preview",
   "note-composer",
   "command-palette",
   "markdown-importer",
   "word-count",
   "open-with-default-app",
+=======
+  "canvas",
+  "page-preview",
+  "note-composer",
+  "command-palette",
+  "bookmarks",
+  "markdown-importer",
+  "word-count",
+>>>>>>> 9aae34dd8ed0cf25213816510ad1d65b871af16a
   "file-recovery"
 ]
