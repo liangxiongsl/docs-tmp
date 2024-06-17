@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian-vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>obsidian-vault</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 17 Jun 2024 14:53:18 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 17 Jun 2024 14:53:17 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[语音模型]]></title><description><![CDATA[ 
+ <br><br>vits =&gt; <a data-tooltip-position="top" aria-label="https://github.com/jaywalnut310/vits" rel="noopener" class="external-link" href="https://github.com/jaywalnut310/vits" target="_blank">jaywalnut310/vits: VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech (github.com)</a><br>
+rvc =&gt; <a data-tooltip-position="top" aria-label="https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI" rel="noopener" class="external-link" href="https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI" target="_blank">RVC-Project/Retrieval-based-Voice-Conversion-WebUI: Easily train a good VC model with voice data &lt;= 10 mins! (github.com)</a><br><br><a data-tooltip-position="top" aria-label="https://space.bilibili.com/343303724?spm_id_from=333.788.0.0" rel="noopener" class="external-link" href="https://space.bilibili.com/343303724?spm_id_from=333.788.0.0" target="_blank">Rcell的个人空间-Rcell个人主页-哔哩哔哩视频 (bilibili.com)</a><br>
+<a data-tooltip-position="top" aria-label="https://github.com/innnky/emotional-vits" rel="noopener" class="external-link" href="https://github.com/innnky/emotional-vits" target="_blank">innnky/emotional-vits: 无需情感标注的情感可控语音合成模型，基于VITS (github.com)</a><br>
+<a data-tooltip-position="top" aria-label="https://huggingface.co/spaces/zomehwh/vits-models" rel="noopener" class="external-link" href="https://huggingface.co/spaces/zomehwh/vits-models" target="_blank">Vits Models - a Hugging Face Space by zomehwh</a><br>rvc 模型：<br>
+<br><a data-tooltip-position="top" aria-label="https://mxgf.cc/rvc-fxq/" rel="noopener" class="external-link" href="https://mxgf.cc/rvc-fxq/" target="_blank">范小勤</a>
+<br><a data-tooltip-position="top" aria-label="https://mxgf.cc/free-dingzhen/" rel="noopener" class="external-link" href="https://mxgf.cc/free-dingzhen/" target="_blank">丁真</a>
+<br><a data-tooltip-position="top" aria-label="https://mxgf.cc/bert-vits2-daoge/" rel="noopener" class="external-link" href="https://mxgf.cc/bert-vits2-daoge/" target="_blank">刀哥</a>
+<br><a data-tooltip-position="top" aria-label="https://www.weights.gg/zh/my-creations" rel="noopener" class="external-link" href="https://www.weights.gg/zh/my-creations" target="_blank">Weights | 免费使用 AI 创建</a><br>
+<br><a data-tooltip-position="top" aria-label="https://www.weights.gg/zh/models/clvxet59302sw2yajain3r2gu" rel="noopener" class="external-link" href="https://www.weights.gg/zh/models/clvxet59302sw2yajain3r2gu" target="_blank">范小勤 | AI RVC模型 (weights.gg)</a>
+<br><br>mp4转mp3 =&gt; <a data-tooltip-position="top" aria-label="https://www.aconvert.com/cn/audio/mp4-to-mp3/" rel="noopener" class="external-link" href="https://www.aconvert.com/cn/audio/mp4-to-mp3/" target="_blank">MP4转MP3 - 在线转换音频文件 (aconvert.com)</a><br>
+b站视频下载 =&gt; <a data-tooltip-position="top" aria-label="https://snapany.com/zh/bilibili" rel="noopener" class="external-link" href="https://snapany.com/zh/bilibili" target="_blank">哔哩哔哩(bilibili)视频解析下载 - 保存B站视频到手机、电脑 (snapany.com)</a><br>范小勤<br>
+<br>搁浅：
+<br>葡萄成熟时：
+<br>你干嘛：<br>
+丁真
+<br>最后一个糊涂神：
+<br>你干嘛：<br>
+蔡徐坤
+<br>葡萄成熟时：
+]]></description><link>docs\ai\语音模型.html</link><guid isPermaLink="false">docs/ai/语音模型.md</guid><pubDate>Mon, 17 Jun 2024 14:52:33 GMT</pubDate></item></channel></rss>
