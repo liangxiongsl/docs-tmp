@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9e1713cea6e8381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "348cb62ed9e7f47b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人物形象.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -111,7 +135,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "需求调查.md",
+            "file": "人物形象.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -134,12 +158,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "bbfefdb15509f049",
+  "active": "348cb62ed9e7f47b",
   "lastOpenFiles": [
-    "地理.md",
-    "需求调查.md",
-    "思考.md",
     "readme.md",
+    "人物形象.md",
+    "task.md",
+    "需求调查.md",
+    "地理.md",
+    "思考.md",
     "厨艺.md",
     "未命名",
     "生物.md"
