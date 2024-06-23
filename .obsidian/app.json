@@ -1,3 +1,28 @@
 {
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "mobileToolbarCommands": [
+    "editor:set-heading",
+    "editor:toggle-bullet-list",
+    "editor:unindent-list",
+    "editor:indent-list",
+    "editor:toggle-blockquote",
+    "editor:insert-wikilink",
+    "editor:attach-file",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-inline-math",
+    "editor:insert-mathblock",
+    "editor:insert-table",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:insert-link",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:configure-toolbar"
+  ]
 }
