@@ -11,24 +11,16 @@
             "id": "b4858cb9d4898f26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "地理.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "b95b4a6b622a9175",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "厨艺.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -47,12 +39,8 @@
             "id": "bbfefdb15509f049",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "需求调查.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -71,12 +59,8 @@
             "id": "348cb62ed9e7f47b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人物形象.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -95,12 +79,8 @@
             "id": "d12e85566b5d0820",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "租房.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -134,14 +114,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "需求调查.md",
+                "file": "task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e999853af398787e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thinking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -196,7 +188,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "需求调查.md",
+            "file": "thinking.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -219,9 +211,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "1f2015f1bd6bca28",
+  "active": "e999853af398787e",
   "lastOpenFiles": [
-    "未命名.md",
+    "task.md",
+    "thinking.md",
+    "think/人物形象.md",
     "毕业典礼.md",
     "厨艺.md",
     "地理.md",
@@ -231,7 +225,6 @@
     "吐槽.md",
     "需求调查.md",
     "tmp-task.md",
-    "task.md",
     "readme.md",
     "租房.md",
     "未命名"
